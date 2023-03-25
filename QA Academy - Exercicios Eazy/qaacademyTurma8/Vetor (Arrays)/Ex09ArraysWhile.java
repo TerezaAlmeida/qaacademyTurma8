@@ -4,7 +4,7 @@ public class Ex09ArraysWhile {
         String[] ano2023;
         int y = 0;
         while(y <12){
-        
+
         ano2023 = new String[12];
         ano2023[0] = "Janeiro";
         ano2023[1] = "Fevereiro";
