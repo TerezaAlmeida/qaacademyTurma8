@@ -1,5 +1,0 @@
-var1 = "5"
-var2 = var1
-var3 = 5 * 2
-
-exibir var3
