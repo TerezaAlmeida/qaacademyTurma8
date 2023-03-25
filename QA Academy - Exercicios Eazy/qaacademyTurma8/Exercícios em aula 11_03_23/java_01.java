@@ -4,7 +4,6 @@
     public String cor = "caramelo";
     public float altura = "0,80cm";
     public String natureza = "louca";
-
         public class Veterinário{
             public String nome = "vetepet";
         }
