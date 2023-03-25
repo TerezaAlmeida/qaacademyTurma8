@@ -1,0 +1,11 @@
+var  num = 5
+	i = 1
+
+enquanto (i <= 10);
+	num * i;
+	i = i + 1;
+Fim Enquanto
+
+exibir mensagem:"Seja bem vindo!";
+
+
