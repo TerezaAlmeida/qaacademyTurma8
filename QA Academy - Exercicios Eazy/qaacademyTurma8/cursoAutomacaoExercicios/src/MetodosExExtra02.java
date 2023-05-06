@@ -10,7 +10,7 @@ public class MetodosExExtra02 {
         if (estaEnsolarado == false){
             return true;
         }
-        else{
+        else{ 
             return false;
         }
     }
