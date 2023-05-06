@@ -13,7 +13,6 @@ public class ExExtra2 { // Faça um algoritimo para somar dois numeros e exibir 
         //int num4 = 20;
         //System.out.println(num3*num4);        
     
-
     //dividir
         //int num5 = 25;
         //int num6 = 4;
